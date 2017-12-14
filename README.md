@@ -42,8 +42,8 @@ let styles = {
     {
       transition: 'all 600ms ease-in',
       opacity: '1',
-      top: (75) + 'px',
-      left: (75) + 'px',
+      top: '75px',
+      left: '75px',
       border: '2px solid #80CBC4',
       height: '150px',
       width: '150px',
@@ -51,8 +51,8 @@ let styles = {
     {
       transition: 'all 600ms ease-in',
       opacity: '1',
-      top: (50) + 'px',
-      left: (50) + 'px',
+      top: '50px',
+      left: '50px',
       border: '2px solid #26A69A',
       height: '200px',
       width: '200px',
