@@ -1,6 +1,6 @@
 {
   "name": "react-transition-array",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple alternative for applying an array of style transitions in React",
   "author": "Thomas Varghese",
   "license": "MIT",

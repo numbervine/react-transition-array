@@ -7,7 +7,7 @@ ReactCSSTransitionGroup (https://facebook.github.io/react/docs/animation.html) a
 
 There's no appear/enter/leave constraint. This component works off an array of styles that are applied sequentially. The first is equivalent to appear/enter and the last is leave. If there's just one style element in the array, apear/enter/leave are rolled into one. Optionally, we can unmount all child components after the last transition style is applied.
 
-[Demo](http://numbervine.github.io/react-transition-array/).
+[Demo](http://numbervine.github.io/react-transition-array/)
 
 ## How to install
 
