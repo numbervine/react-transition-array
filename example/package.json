@@ -1,0 +1,21 @@
+{
+  "name": "react-transition-array-example",
+  "homepage": "https://numbervine.github.io/react-transition-array",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "prop-types": "^15.4.4",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-transition-array": "^1.0.0",
+    "misc-utils": "^1.0.0",
+    "react-scripts": "1.0.13"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
