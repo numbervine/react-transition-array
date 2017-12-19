@@ -1,3 +1,8 @@
+/**
+ * @license Copyright 2017 Thomas Varghese, MIT License
+ * see https://github.com/numbervine/react-transition-array/blob/master/LICENSE
+ */
+
 import StyleHelper from './StyleHelper'
 import has from 'lodash/has'
 import union from 'lodash/union'

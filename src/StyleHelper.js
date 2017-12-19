@@ -1,3 +1,8 @@
+/**
+ * @license Copyright 2017 Thomas Varghese, MIT License
+ * see https://github.com/numbervine/react-transition-array/blob/master/LICENSE
+ */
+
 import has from 'lodash/has'
 import get from 'lodash/get'
 import findKey from 'lodash/findKey'

@@ -1,3 +1,8 @@
+/**
+ * @license Copyright 2017 Thomas Varghese, MIT License
+ * see https://github.com/numbervine/react-transition-array/blob/master/LICENSE
+ */
+
 export default class CallbackManager {
 
   static _register = {}

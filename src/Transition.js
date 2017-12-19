@@ -1,3 +1,8 @@
+/**
+ * @license Copyright 2017 Thomas Varghese, MIT License
+ * see https://github.com/numbervine/react-transition-array/blob/master/LICENSE
+ */
+
 import React, {Component} from 'react';
 import PropTypes from 'prop-types';
 import TransitionChild from './TransitionChild';
