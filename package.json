@@ -1,6 +1,6 @@
 {
   "name": "react-transition-array",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple alternative for applying an array of style transitions in React",
   "author": "Thomas Varghese",
   "license": "MIT",
@@ -19,6 +19,13 @@
     "predeploy": "cd example && npm install && npm run build",
     "deploy": "gh-pages -d example/build"
   },
+  "keywords": [
+    "react",
+    "react-component",
+    "react-addons",
+    "transition",
+    "inline-styles"
+  ],
   "dependencies": {
     "lodash.findindex": "^4.6.0",
     "misc-utils": "^1.0.0"
